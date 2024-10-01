@@ -3,21 +3,21 @@
   "header": {
     "name": "enchant",
     "description": "マイクラの武器や装備のエンチャントをします。　※カーソルを合わせて　（なぜかチェストプレートとレギンスだけできません；；）",
-    "version": [1, 0, 0],
-    "uuid": "e0a89ab8-b62d-4593-a378-78c456b9cfdd",
-    "min_engine_version": [1, 21, 30]
+    "version": [1, 0, 1],
+    "uuid": "9dda6433-e9f3-40fa-b186-c7e7a8c454f8",
+    "min_engine_version": [1, 21, 31]
   },
   "modules": [
     {
       "type": "data",
       "description": "behavior module",
-      "version": [1, 0, 0],
-      "uuid": "a1fbcb7d-fbb7-49bb-8133-0b1099e597be"
+      "version": [1, 0, 1],
+      "uuid": "c966ffba-6677-431f-932c-87eecafc7a0b"
     }
   ],
   "metadata": {
     "authors": [
-      "TomaGames0902"
+      "TouTube TomaTV"
     ],
     "generated_with": {
       "TokaTools-Manifest-Generator": ["1.8.0"]
