@@ -2,17 +2,17 @@
   "format_version": 2,
   "header": {
     "name": "enchant",
-    "description": "マイクラの武器や装備のエンチャントをします。　※カーソルを合わせて（なぜかチェストプレートとレギンスだけできません；；）",
-    "version": [1, 0, 1],
-    "uuid": "9dda6433-e9f3-40fa-b186-c7e7a8c454f8",
+    "description": "1.0.2 1.21.31対応 マイクラの武器や装備のエンチャントをします。　※カーソルを合わせて（なぜかレギンスだけできません；；）",
+    "version": [1, 0, 2],
+    "uuid": "c4efbf5d-dd9a-4eae-8c7e-7872d8c41ac4",
     "min_engine_version": [1, 21, 31]
   },
   "modules": [
     {
       "type": "data",
       "description": "behavior module",
-      "version": [1, 0, 1],
-      "uuid": "c966ffba-6677-431f-932c-87eecafc7a0b"
+      "version": [1, 0, 2],
+      "uuid": "fcf6e865-fcb1-4419-a557-0ce205b7e937"
     }
   ],
   "metadata": {
